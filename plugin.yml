@@ -1,6 +1,7 @@
-name: BossBar
-api: [3.8.2]
+name: BossBarn
+api: [3.8.2, 4.0.0]
 version: 1.0.15
 load: STARTUP
-author: ImpladeDeveloped Team
+author:  peptiGamer
 main: BossBar\Main
+info: Estes documento esta hecho excusivo para OLimpoCraft-NetWork
