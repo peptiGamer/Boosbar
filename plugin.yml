@@ -1,7 +1,7 @@
 name: BossBar
-api: [3.8.2]
-version: 1.0.15
+api: [3.11.5, 3.11.6]
+version: 1.1.0
 load: STARTUP
 author:  peptiGamer
 main: BossBar\Main
-info: Estes documento esta hecho excusivo para OLimpoCraft-NetWork
+info: Estes documento esta hecho excusivo para PatriotMC-NetWork
