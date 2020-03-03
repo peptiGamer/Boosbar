@@ -1,4 +1,4 @@
 # Boosbar
-nuevo Bossbar para la version 1.11.x
+nuevo Bossbar para la version 1.14
 si lo vas a subir a yutube  y hacer cambioas dame creditos
-api version  3.8.2, 4.0.0
+api version  3.11.5, 3.11.6
